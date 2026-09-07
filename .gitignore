@@ -1,0 +1,23 @@
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de salida
+bin/
+build/
+out/
+target/
+
+# Configuraciones de IDEs y editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs y temporales
+*.log
+.DS_Store
